@@ -1,1 +1,1 @@
-Zeus 1.0 is a long-range communication device which uses LoRa technology for communication and Bluetooth for mobile phone 
+Zeus 1.0 is a long-range communication device which enables users to communicate with a remote entity who possess the device, without requiring cellular or internet connection. To use Zeus 1.0, users require the device Zeus and our mobile application, on which the text to be send is typed. Zeus 1.0 uses LoRa technology for transfer of text data and Bluetooth for pairing with mobile phone.
